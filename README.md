@@ -3,6 +3,11 @@ Using R language identified and generated a report on consumer behavior and prod
 
 Report assisted vendors to learn types of relationship between products and consumer age or location, predict products sale, etc
 
+
+```
+OUTPUT image is a minute peek of the kind of work in project
+```
+
 ```
 Repository contains report and ppt.
 ```

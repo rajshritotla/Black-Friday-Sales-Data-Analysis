@@ -3,6 +3,10 @@ Using R language identified and generated a report on consumer behavior and prod
 
 Report assisted vendors to learn types of relationship between products and consumer age or location, predict products sale, etc
 
+```
+Repository contains report and ppt.
+```
+
 # Implementation Language
 R
 ```
